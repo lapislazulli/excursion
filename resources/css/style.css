@@ -32,4 +32,9 @@ body {
     color: aquamarine;
 }
 
-
+/* FOOTER */
+.footer{
+    font-size: 21px;
+    color: gray;
+    text-align: right;
+}
